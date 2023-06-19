@@ -3,9 +3,11 @@
     <small>&copy;my-vite-todo</small>
   </footer>
 </template>
-<style scoped>
+<style>
 .footer {
   margin-top: 15px;
-  height: 30px;
+}
+.title {
+  color: red;
 }
 </style>
